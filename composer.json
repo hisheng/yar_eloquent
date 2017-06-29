@@ -1,0 +1,17 @@
+{
+    "name": "hisheng/yar",
+    "authors": [
+        {
+            "name": "张海生",
+            "email": "465908774@qq.com"
+        }
+    ],
+    "require": {
+        "illuminate/database": "^5.4"
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
